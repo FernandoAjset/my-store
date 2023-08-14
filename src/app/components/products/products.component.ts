@@ -26,5 +26,13 @@ export class ProductsComponent {
       price: 320,
       image: './assets/eCommerce/3.png',
     },
-  ]
+  ];
+
+  public myShoppingCart: Product[] = [];
+  public totalShoppingCart: number = 0;
+
+  public onAddToShoppingCart(product: Product) {
+    this.myShoppingCart.push(product);
+    this.totalShoppingCart = this.myShoppingCart.reduce((sum, product) => sum + product.price, 0);
+  }
 }
