@@ -1,27 +1,56 @@
-# MyStore
+# My Store App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.9.
+Este proyecto es una tienda online básica que permite al usuario realizar las siguientes acciones:
 
-## Development server
+- Ver productos
+- Agregar productos al carrito de compras
+- Calcular el total de compra
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Requisitos
 
-## Code scaffolding
+- Node.js y npm
+- Angular CLI
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Instalación
 
-## Build
+Para instalar el proyecto, siga estos pasos:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+1. Clonar el repositorio:​
+git clone https://github.com/your-username/your-project.git
+​
+2. Instalar las dependencias:
+npm install
 
-## Running unit tests
+3. Ejecutar el proyecto:
+ng serve
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+## Uso
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Después de ejecutar el proyecto, se abrirá en el navegador la página principal de la tienda.
 
-## Further help
+### Ver productos
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+En la página principal, se muestran los productos disponibles en la tienda.
+
+### Agregar productos al carrito de compras
+
+Para agregar un producto al carrito de compras, se debe dar clic en el botón "Add Cart" que se encuentra junto al producto deseado.
+
+## Licencia
+
+Este proyecto está bajo la licencia MIT.
+
+## Contacto
+Si tienes alguna pregunta o necesitas ayuda adicional o te interera mi trabajo puedes contactarme por:
+
+**Email**: fernando_ajset@hotmail.com
+
+## Redes sociales:
+- **LinkedIn**: https://www.linkedin.com/in/edgar-fernando-ajset-nimacach%C3%A9-3a52951ba/
+- **Facebook**: https://www.facebook.com/hackferajset
+- **Instagram**: https://www.instagram.com/fer_ajset/
+
+## Donaciones
+Si el proyecto es util para tí y puedes aportar en mi desarrollo, tu donación es muy valiosa.
+**Pues hacerla aquí: https://paypal.me/EAjset?locale.x=es_XC**
