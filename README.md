@@ -6,6 +6,8 @@ Este proyecto es una tienda online básica que permite al usuario realizar las s
 - Agregar productos al carrito de compras
 - Calcular el total de compra
 
+**Nota**: La aplicación fue desarrollada siguiendo el curso "Componentes y Servicios", enlace del curso: https://platzi.com/cursos/angular-componentes/
+
 ## Requisitos
 
 - Node.js y npm
@@ -16,7 +18,7 @@ Este proyecto es una tienda online básica que permite al usuario realizar las s
 Para instalar el proyecto, siga estos pasos:
 
 1. Clonar el repositorio:​
-git clone https://github.com/your-username/your-project.git
+git clone https://github.com/FernandoAjset/my-store.git
 ​
 2. Instalar las dependencias:
 npm install
